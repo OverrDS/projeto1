@@ -1,2 +1,2 @@
 # projeto1
-PROJETO CRIADO COM EXEMPLO PARA ENTEDER O FUNCIONAMENTO DO GIT HUB
+Projeto criado com exemplo para entender o funcionamento do GitHUB
